@@ -1,2 +1,2 @@
 # ECO5002-Introduction-to-Economics
-Students can find course material archives here.
+This course provides a foundation in microeconomics and macroeconomics, primarily to students without background in this subject or students who never took similar courses in English. The course is divided into two parts. Microeconomics aims to provide students with methods that can enable them to think about how markets work and how consumers and firms make decisions. Macroeconomics aims to provide the student with basic tools to analyze what drives economic growth and fluctuations and how policymakers intervene in the economy.
